@@ -299,6 +299,7 @@ header{
 .about .content span {
   color: #066ec9;
   font-size: 4rem;
+  
 }
 
 .about .content h3 {
@@ -306,6 +307,7 @@ header{
   font-size: 4rem;
   padding-top: .5rem;
   padding-left: 5rem;
+  text-transform: uppercase;
 }
 
 .about .content p {
@@ -314,6 +316,7 @@ header{
   line-height: 2;
   padding: 1rem 0;
   text-align: justify;
+  text-transform: uppercase;
 }
 
 .gallery .box-container {
